@@ -11,6 +11,7 @@
 │   ├── Step 3.1: Build Static Features (from 'triage', 'edstays', 'diagnosis')
 │   ├── Step 3.2: Structure Sequential Time-Series Tables ('vitalsign', 'pyxis')
 │   └── Step 3.3: Implement clinical forward-filling imputation and 1-hour window binning
+    └──STEP 3.4: LABS SEQUENCE RESHAPING
 │
 ├── PHASE 4: UNIMODAL EXPERT TRAINING (THE NEURAL AGENTS)
 │   ├── Step 4.1: Construct and train the Vitals Agent (Sequential LSTM / TCN)
